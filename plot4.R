@@ -43,7 +43,7 @@ png("plot4.png", width=480, height=480)
 par(mfrow=c(2,2))
 
 #do gap plot
-plot(dateTime,gap, type="l", ylab="Global Active Power", xlab="", cex=0.3)
+plot(dateTime,gap, type="l", ylab="Global Active Power", xlab="")
 
 #do next plot
 plot(dateTime, volt, type="l", ylab="Voltage", xlab="Date/Time")
