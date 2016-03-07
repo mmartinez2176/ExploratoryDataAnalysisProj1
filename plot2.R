@@ -12,8 +12,8 @@ library(png)
 #Step 2.  Load the data files
 
 # set the working dir 
-myWorkingDir <- "/Volumes/User Data 3TB/Users/mmartine/Documents/Education/Coursera/Data Science Certificate/04. Exploratory Data Analysis"
-#myWorkingDir <- "/home/mmartine/Documents/Education/Corusera/Exploratory-Data-Analysis/Proj1"
+#myWorkingDir <- "/Volumes/User Data 3TB/Users/mmartine/Documents/Education/Coursera/Data Science Certificate/04. Exploratory Data Analysis"
+myWorkingDir <- "/home/mmartine/Documents/Education/Corusera/Exploratory-Data-Analysis/Proj1"
 setwd(myWorkingDir)
 
 #create the Data directory if needed
